@@ -52,12 +52,17 @@
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore)
 
 ##### Bliends
+
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
+
 - 시각장애인과 보호자간의 상호작용을 도와주는 어플리케이션입니다
 - 기간 : 2018.08~09
 - 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
 - 사용기술 : Kotlin
 
 ##### IZCalendar
+
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
 
 - 아이즈원의 일정을 보여주는 앱입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
