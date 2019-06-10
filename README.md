@@ -26,7 +26,7 @@
 
 * MVVM,ACC,Rxjava를 활용해 프로젝트 개발
 
-####Projects
+#### Projects
 -----
 ##### Artfolio
 - 미술품 거래 AR서비스 하이브리드앱 입니다.
@@ -43,6 +43,7 @@
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
 - Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
 - 사용기술 : Kotlin,Flask(Python)
-##### Skill
+#### Skill
+-----
 - Android(Java,Kotlin) : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
 - Python : 기본문법과 간단한 모듈등을 사용할수 있습니다.
