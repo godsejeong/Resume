@@ -32,11 +32,11 @@
 -----
 
 **Didimstory**, OutSourcing (2018.10)
-- ViroARcore를 이용 미술 관련 AR앱 개발
-- 가계부앱 개발
+ - ViroARcore를 이용 미술 관련 AR앱 개발
+ - 가계부앱 개발
 
 **개인프로젝트**
-- MVVM,ACC,Rxjava를 활용해 프로젝트 개발
+ - MVVM,ACC,Rxjava를 활용해 프로젝트 개발
 
 #### Projects
 
