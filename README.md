@@ -6,9 +6,11 @@
 - E-mail : dbdnpxm@gmail.com
 - Tel : 010-3229-5788
 - Github : https://github.com/godsejeong
+
 #### Key Skill
 -----
 여러 해커톤과 공모전등을 참여해 여러사람과 협업하는 기술을 습득
+
 #### Education
 -----
 선린인터넷고등학교 소프트웨어과 재학중 (2017~)
@@ -18,11 +20,11 @@
 - **앱잼 17회 생활부문** 장려상
 - **Smarteen App Challenge 2018 IOT부문** 가작상
 #### Experience
-##### Didimstory, OutSourcing (2018.10)
+* **Didimstory**, OutSourcing (2018.10)
 * ViroARcore를 이용 미술 관련 AR앱 개발
 * 가계부앱 개발
 
-#####개인프로젝트
+* **개인프로젝트**
 
 * MVVM,ACC,Rxjava를 활용해 프로젝트 개발
 
@@ -43,7 +45,8 @@
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
 - Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
 - 사용기술 : Kotlin,Flask(Python)
+
 #### Skill
 -----
-- Android(Java,Kotlin) : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
-- Python : 기본문법과 간단한 모듈등을 사용할수 있습니다.
+**Android(Java,Kotlin)** : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
+**Python** : 기본문법과 간단한 모듈등을 사용할수 있습니다.
