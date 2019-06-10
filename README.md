@@ -44,8 +44,7 @@
 
 ##### Artfolio
 
-![alt text]
-(https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
 - 미술품 거래 AR서비스 하이브리드앱 입니다.
 - 기간 : 2018.10~11
