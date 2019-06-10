@@ -15,10 +15,12 @@
 -----
 선린인터넷고등학교 소프트웨어과 재학중 (2017~)
 #### Awards and Honors
+----
 - **2017 선린인터넷고등학교 창의아이디어 경진대회** 동상
 - **앱잼 14회 생활부문** 장려상
 - **앱잼 17회 생활부문** 장려상
 - **Smarteen App Challenge 2018 IOT부문** 가작상
+
 #### Experience
 * **Didimstory**, OutSourcing (2018.10)
 * ViroARcore를 이용 미술 관련 AR앱 개발
