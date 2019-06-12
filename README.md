@@ -50,6 +50,8 @@
 - 기간 : 2018.10~11
 - 웹 연동 및 AR부분을 개발하였습니다.
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore)
+- 세부설명 : 
+- 웹 사이트 : http://lahmweb.cafe24.com/
 
 ##### Bliends
 
@@ -59,6 +61,7 @@
 - 기간 : 2018.08~09
 - 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
 - 사용기술 : Kotlin
+- 세부설명 :
 
 ##### IZCalendar
 
@@ -69,7 +72,7 @@
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
 - Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
 - 사용기술 : Kotlin,Flask(Python)
-
+- 세부설명 :
 #### Skill
 
 -----
