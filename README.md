@@ -50,8 +50,7 @@
 - 기간 : 2018.10~11
 - 웹 연동 및 AR부분을 개발하였습니다.
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore)
-- 세부설명 : 
-- 웹 사이트 : http://lahmweb.cafe24.com/
+- 프로젝트 세부 설명 : http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor
 
 ##### Bliends
 
@@ -61,7 +60,7 @@
 - 기간 : 2018.08~09
 - 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
 - 사용기술 : Kotlin
-- 세부설명 :
+- 세부설명 : 
 
 ##### IZCalendar
 
