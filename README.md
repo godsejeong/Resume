@@ -62,6 +62,7 @@
 
 ##### IZCalendar
 
+
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
 
 - 아이즈원의 일정을 보여주는 앱입니다.
