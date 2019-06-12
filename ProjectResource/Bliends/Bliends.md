@@ -22,19 +22,22 @@
 #### 대쉬보드
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/GuradianDashbord.png)
 
-```  사용자가 많이 활동한 장소들과 알림들을 한눈에 모아볼수 있는 페이지 입니다.
+```  
+사용자가 많이 활동한 장소들과 알림들을 한눈에 모아볼수 있는 페이지 입니다.
 ```
 
 #### 위치추적
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/GuardianMapPage.png)
 
-```  사용자가 현재 위치하는 장소와 이전에 활동한 장소들을 활동로그로 보여주는 페이지 입니다.
+```
+사용자가 현재 위치하는 장소와 이전에 활동한 장소들을 활동로그로 보여주는 페이지 입니다.
 ```
 
 #### 도움요청
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/GuardianHelpPage.png)
 
-```  사용자가 알림을 보냈을때 실시간으로 사용자가 보낸 알림을 띄워주는 페이지 입니다.
+```  
+사용자가 알림을 보냈을때 실시간으로 사용자가 보낸 알림을 띄워주는 페이지 입니다.
 ```
 
 ### 사용자
