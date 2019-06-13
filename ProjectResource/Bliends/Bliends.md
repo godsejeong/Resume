@@ -1,4 +1,5 @@
-## Bliends ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png) 
+## Bliends 
+## ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png) 
 
 
 ``` 
