@@ -1,4 +1,4 @@
-##     Bliends <br><br> ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png) 
+##   <t>Bliends <br><br> ![alt text(https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png) 
 
 
 ``` 
