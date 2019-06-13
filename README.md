@@ -50,6 +50,7 @@
 - 기간 : 2018.10~11
 - 웹 연동 및 AR뷰어,사진등록기능을 개발하였습니다.
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore)
+- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication
 > 프로젝트 설명 : http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor
 
 ##### Bliends
@@ -60,6 +61,7 @@
 - 기간 : 2018.08~09
 - 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
 - 사용기술 : Kotlin
+- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.bliends.pc.bliends(서버가 꺼짐)
 > 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md
 
 ##### IZCalendar
@@ -71,6 +73,7 @@
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
 - Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
 - 사용기술 : Kotlin,Flask(Python)
+- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.jjmin.izcalendar
 > 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md
 #### Skill
 
