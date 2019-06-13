@@ -53,7 +53,7 @@ BluetoothSPP를 이용하여 IOT연동을 하였고 소켓을 사용해서 알�
 
 ### 설정
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/UserSettingPage.png)
-![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/GuardianSettingPage.png)
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/GuradianSettingPage.png)
 
 ``` 
 사용자설정에서는 긴급상황에 연락할 보호자의 번호 변경,블루투스 설정을 지원하고
