@@ -71,7 +71,7 @@
 
 - 아이즈원의 일정을 보여주는 앱입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
-- Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
+- Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI,RXJava를 적용하여 앱을 제작하였습니다.
 - 사용기술 : Kotlin,Flask(Python)
 - 다운로드 주소 : https://play.google.com/store/apps/details?id=com.jjmin.izcalendar
 > 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md
