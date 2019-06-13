@@ -61,7 +61,7 @@
 - 기간 : 2018.08~09
 - 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
 - 사용기술 : Kotlin
-- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.bliends.pc.bliends(서버가 꺼짐)
+- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.bliends.pc.bliends (서버가 꺼짐)
 > 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md
 
 ##### IZCalendar
