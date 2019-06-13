@@ -1,6 +1,5 @@
-## Bliends
+## ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png) Bliends
 
-![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
 
 ``` 
 시각장애인과 보호자들이 쉽게 소통과 안전확인을 할수있고 IOT시스템을 통해 현금인식을 할수 있는 앱입니다.
