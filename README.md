@@ -59,26 +59,32 @@
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
 
-- 시각장애인과 보호자간의 상호작용을 도와주는 어플리케이션입니다
+- 앱 소개 :  시각장애인같은 사회적 약자가 위험에 처했을때 보호자들의 걱정을 덜어주기 위해 실시간 모리터링,
+사용자의 상태를 파악할수 있는 현금인식이 가능한 IOT 커뮤니케이션 시스템입니다.
 - 기간 : 2018.08~09
-- 로그인/회원가입,IOT 연동,사용자 시스템을 개발하였습니다.
-- 사용기술 : BluetoothSPP,Fcm,retrofit2
-- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.bliends.pc.bliends (서버가 꺼짐)
-> 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md
+- 머티리얼 2.0 디자인을 적용하여 로그인/회원가입을 개발했고, BluetoothSpp를 사용해 블루투스를 연동해 IOT시스템과 통신을 하였습니다. 
+그리고 Fcm을 이용해 사용자가 보호자에게 실시간으로 알림을 보내주는 기능을 개발하였습니다.
+- 사용기술 : BluetoothSPP,Fcm,retrofit2,머티리얼2.0
+
+[다운로드 링크](https://play.google.com/store/apps/details?id=com.bliends.pc.bliends) (서버가 꺼짐)
+
+제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
 
 ##### IZCalendar
 
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
 
-- 아이즈원의 일정을 보여주는 앱입니다.
+- 아이즈원의 일정을 보기 위해선 공식카페를 통해 4번의 엑션을 취해야 하는데 그런 불편함을 개선하고자 손쉽게 보기 위해서 제작한 앱 입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
-- Flask를 사용하여 일정크롤링서버를 제작하였습니다. MVVM,ACC,DI를 적용하여 앱을 제작하였습니다.
+- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava을 적용해 보았습니다. 
 - 사용기술
   - Android - MVVM,ACC,DI,RxJAva
   - Server - Falsk,Selenium
-- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.jjmin.izcalendar
-> 프로젝트 설명 : https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md
+  
+[다운로드 링크](https://play.google.com/store/apps/details?id=com.jjmin.izcalendar)
+
+제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
 ##### 그 외 프로젝트
 
