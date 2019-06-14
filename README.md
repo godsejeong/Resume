@@ -1,7 +1,6 @@
 # About me
 
 ## 소개
-![alt text](https://github.com/godsejeong/Resume/blob/master/profile.jpeg)
 - 이름 : 나재민
 - E-mail : dbdnpxm@gmail.com
 - Tel : 010-3229-5788
@@ -46,12 +45,15 @@
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
-- 미술품 거래 AR서비스 하이브리드앱 입니다.
+- 앱 소개 : 신인 작가와 미술 애호가 간의 시간적 공간적 불일치를 해소시키며 서로의 정보 교환을 통해 적은 확률의 전시 기회,
+과도한 가격과 같은 미술시장의 현실을 개선할 수 있는 미술품 거래 AR서버스 입니다.
 - 기간 : 2018.10~11
-- 웹 연동 및 AR뷰어,사진등록기능을 개발하였습니다.
-- 사용기술 : Kotlin,Java,ViroARCore(Google ARcore),WebView,bridge
-- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication
-> 프로젝트 설명 : http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor
+- Webview Bridge를 이용한 웹연동 및 ViroARcore를 통해 기획에 맞는 유연한 AR뷰어 개발,OpenCV예제를 활용해 사진등록기능을 개발하였습니다.
+- 사용기술 : Kotlin,Java,ViroARCore(Google ARcore),WebView bridge,openCV
+
+[다운로드 링크]( https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication)
+
+제세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
 
 ##### Bliends
 
