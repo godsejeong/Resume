@@ -96,7 +96,7 @@
 
 ##### 그 외 프로젝트
 
-그 외 프로젝트는 [여기]()에서 열람하실 수 있습니다.
+이외의 프로젝트는 [여기](https://github.com/godsejeong/Resume/blob/master/project.md)에서 열람하실 수 있습니다.
 
 - 솔로들을 위한 커뮤니티 앱 : https://github.com/godsejeong/AppJam16th
 - 창업 아이디어를 피드백 해주고 런칭을 할수 있게 도와주는 앱 : https://github.com/godsejeong/AppJam17th
