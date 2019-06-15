@@ -49,7 +49,7 @@
 
 -----
 
-##### Artfolio
+##### Artfolio (외주)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
@@ -63,7 +63,7 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
 
-##### Bliends
+##### Bliends(대회/팀)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
 
@@ -78,7 +78,7 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
 
-##### IZCalendar
+##### IZCalendar (개인)
 
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
@@ -94,18 +94,40 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
-##### 
+##### 	NPNM (No Pain, No Money) (외주)
+
+- 행복한 대학생활을 돕기 위해,계획적인 소비를 위해,과소비를 줄이기 위한 가계부 앱입니다.
+- 기간 2018.09.21~2018.09.28
+- 사용기술 : WebView,Service,Chart
+- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.householdledger
+> 프로젝트 설명 : 
 
 ##### 그 외 프로젝트
 
-- [대회/팀]솔로들을 위한 커뮤니티 앱 : https://github.com/godsejeong/AppJam16th
-- [대회/개인]창업 아이디어를 피드백 해주고 런칭을 할수 있게 도와주는 앱 : https://github.com/godsejeong/AppJam17th
-- [대회/팀]팩트폭력을 해주는 커뮤니티 앱 : https://github.com/godsejeong/highToon
-- [대회/팀]교사와 학부모가 직접적으로 커뮤니케이션 할 수 있는 앱 : https://github.com/godsejeong/AppJamProject
-- [개인]채팅 앱 : https://github.com/godsejeong/chatting
-- [대회/팀]타입캡슐 앱 : https://github.com/godsejeong/BigFuture
-- [개인]동아리 축제 앱(더 지니어스) : https://github.com/godsejeong/ApplePi_Genius
-- [개인]드라마 파싱 앱 : https://github.com/godsejeong/Drama
+- [대회/팀] SoloPlayList : 혼밥족 등 1인 가족의 등장으로 급증한 솔로들의 외로움을 해소하기 위한 커뮤니티 어플리케이션
+  [소스코드](https://github.com/godsejeong/AppJam16th)
+  
+- [대회/개인] Found : 창업 아이디어,서비스를 피드백 해주고 성공적으로 창업을 성공할 수 있게 도와주는 어플리케이션
+  [소스코드](https://github.com/godsejeong/AppJam17th)
+  
+- [대회/팀] Trump's Fact : 동기부여가 필요한 사람들간에 팩트폭력을 주고 받을 수 있는 커뮤니티 어플리케이션
+  [소스코드](https://github.com/godsejeong/highToon)
+  
+- [대회/팀] CONNECTeD : 공문,확인서등의 중요한 공문들이 전달이 잘 되지 않는 경우가 많아 그런점을 보완하기 위해 만든 교사와 학부모가 직접적으로 커뮤니케이션 할 수 있는 어플리케이션
+  [소스코드](https://github.com/godsejeong/AppJamProject)
+
+- [대회/팀] BigFuture : 페이스북 친구 또는 자기 자신에게 졸업 전까지 하고 싶은 말을 간단하게 50자 내외로 기록하여 
+졸업식 당일,자신 또는 타인이 지정한 날에 알림이 오면서,다른 사람이 자신에게 한말을 태그별로 확인할수 있는 타입캡슐 어플리케이션
+  [소스코드](https://github.com/godsejeong/BigFuture)
+
+- [개인] 동아리 축제 앱(The Genius) : 더 지니어스 정리해고 게임을 어플리케이션으로 제작함 
+  [소스코드](https://github.com/godsejeong/ApplePi_Genius)
+
+- [개인] Chatting : Soket을 사용하기위해 만든 채팅 어플리케이션
+  [소스코드](https://github.com/godsejeong/chatting)
+
+- [개인] Drama : 웹으로 들어가기 너무 귀찮아서 웹을 파싱하여 만든 드라마 어플리케이션
+  [소스코드](https://github.com/godsejeong/Drama)
 
 #### Skill
 
