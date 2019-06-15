@@ -2,7 +2,7 @@
 
 ## 소개
 
-![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
+![alt text](https://github.com/godsejeong/Resume/blob/master/profile.png)
 
 - 이름 : 나재민
 - E-mail : dbdnpxm@gmail.com
