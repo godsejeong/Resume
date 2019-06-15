@@ -96,11 +96,14 @@
 
 ##### 	NPNM (No Pain, No Money) (외주)
 
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/NPNM_Icon.png)
+
 - 행복한 대학생활을 돕기 위해,계획적인 소비를 위해,과소비를 줄이기 위한 가계부 앱입니다.
 - 기간 2018.09.21~2018.09.28
 - 사용기술 : WebView,Service,Chart
-- 다운로드 주소 : https://play.google.com/store/apps/details?id=com.householdledger
-> 프로젝트 설명 : 
+
+[다운로드 링크](https://play.google.com/store/apps/details?id=com.householdledger)
+제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
 
 ##### 그 외 프로젝트
 
