@@ -1,6 +1,9 @@
 # About me
 
 ## 소개
+
+![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
+
 - 이름 : 나재민
 - E-mail : dbdnpxm@gmail.com
 - Tel : 010-3229-5788
@@ -82,7 +85,7 @@
 
 - 아이즈원의 일정을 보기 위해선 공식카페를 통해 4번의 엑션을 취해야 하는데 그런 불편함을 개선하고자 손쉽게 보기 위해서 제작한 앱 입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
-- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava을 적용해 보았습니다. 
+- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava를 적용해 프로젝트를 개발하였습니다. 
 - 사용기술
   - Android - MVVM,ACC,DI,RxJAva
   - Server - Falsk,Selenium
