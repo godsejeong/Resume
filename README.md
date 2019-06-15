@@ -94,16 +94,19 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
+##### 
+
 ##### 그 외 프로젝트
 
-이외의 프로젝트는 [여기](https://github.com/godsejeong/Resume/blob/master/project.md)에서 열람하실 수 있습니다.
+- [대회/팀]솔로들을 위한 커뮤니티 앱 : https://github.com/godsejeong/AppJam16th
+- [대회/개인]창업 아이디어를 피드백 해주고 런칭을 할수 있게 도와주는 앱 : https://github.com/godsejeong/AppJam17th
+- [대회/팀]팩트폭력을 해주는 커뮤니티 앱 : https://github.com/godsejeong/highToon
+- [대회/팀]교사와 학부모가 직접적으로 커뮤니케이션 할 수 있는 앱 : https://github.com/godsejeong/AppJamProject
+- [개인]채팅 앱 : https://github.com/godsejeong/chatting
+- [대회/팀]타입캡슐 앱 : https://github.com/godsejeong/BigFuture
+- [개인]동아리 축제 앱(더 지니어스) : https://github.com/godsejeong/ApplePi_Genius
+- [개인]드라마 파싱 앱 : https://github.com/godsejeong/Drama
 
-- 솔로들을 위한 커뮤니티 앱 : https://github.com/godsejeong/AppJam16th
-- 창업 아이디어를 피드백 해주고 런칭을 할수 있게 도와주는 앱 : https://github.com/godsejeong/AppJam17th
-- 팩트폭력을 해주는 커뮤니티 앱 : https://github.com/godsejeong/highToon
-- 교사와 학부모가 직접적으로 커뮤니케이션 할 수 있는 앱 : https://github.com/godsejeong/AppJamProject
-- 채팅 앱 : https://github.com/godsejeong/chatting
-- 동아리 축제 앱(더 지니어스) : 
 #### Skill
 
 -----
