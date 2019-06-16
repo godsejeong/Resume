@@ -62,8 +62,7 @@
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
-- 앱 소개 : 신인 작가와 미술 애호가 간의 시간적 공간적 불일치를 해소시키며 서로의 정보 교환을 통해 적은 확률의 전시 기회,
-과도한 가격과 같은 미술시장의 현실을 개선할 수 있는 미술품 거래 AR서버스 입니다.
+- 앱 소개 : 신인 작가와 미술 애호가 간의 시간적 공간적 불일치를 해소시키며 서로의 정보 교환을 통해 적은 확률의 전시 기회,구매 후 불만족과 같은 문제점들을 개선할 수 있는 플랫폼입니다.
 - 기간 : 2018.10~11
 - Webview Bridge를 이용한 웹연동 및 ViroARcore를 통해 기획에 맞는 유연한 AR뷰어 개발,OpenCV예제를 활용해 사진등록기능을 개발하였습니다.
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore),WebView bridge,openCV
