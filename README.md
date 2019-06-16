@@ -85,7 +85,7 @@
 
 - 아이즈원의 일정을 보기 위해선 공식카페를 통해 4번의 엑션을 취해야 하는데 그런 불편함을 개선하고자 손쉽게 보기 위해서 제작한 앱 입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
-- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava를 적용해 프로젝트를 개발하였습니다. 
+- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava를 적용하여 프로젝트를 개발하였고 제스처에 따른 에니메이션을 구현했고 커스텀 캘린더뷰를 구현하였습니다. 또한 테마에 맞는 Theme을 설정하여 실시간으로 갱신 하였습니다. 
 - 사용기술
   - Android - MVVM,ACC,DI,RxJAva
   - Server - Falsk,Selenium
@@ -100,7 +100,8 @@
 
 - 행복한 대학생활을 돕기 위해,계획적인 소비를 위해,과소비를 줄이기 위한 가계부 앱입니다.
 - 기간 2018.09.21~2018.09.28
-- 사용기술 : WebView,Service,Chart
+- ViewPager를 이용하여 잔고와 한도금액을 볼 수 있고 가계부 목록을 list(Recycler)와 Chart(pieChart)형식으로 구현하였습니다.
+- 사용기술 : WebView,Service,PieChart
 
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.householdledger)
 
