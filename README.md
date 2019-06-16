@@ -11,18 +11,20 @@
 - Tel : 010-3229-5788
 - Github : https://github.com/godsejeong
 
-#### Key Skill
+### Key Skill
 
 -----
 
 여러 해커톤과 공모전등을 참여해 여러사람과 협업하는 기술을 습득하였습니다.
 
-#### Education
+실무앱 제작 및 유지보수 경험이 있습니다.
+
+### Education
 
 -----
 
 선린인터넷고등학교 소프트웨어과 재학중 (2017~)
-#### Awards and Honors
+### Awards and Honors
 
 ----
 
@@ -31,7 +33,7 @@
 - **앱잼 17회 생활부문** 장려상
 - **Smarteen App Challenge 2018 IOT부문** 가작상
 
-#### Experience
+### Experience
 
 -----
 
@@ -47,7 +49,7 @@
  - 2017,2018 SW영재교육원 안드로이드 맨토
 
 
-#### Skill
+### Skill
 
 -----
 
@@ -56,7 +58,7 @@
 **Python** : 기본문법과 Selenium, bs4, turtle등의 모듈을 사용해 보았습니다.
 
 
-#### Projects
+### Projects
 
 -----
 
