@@ -143,3 +143,6 @@
 - [개인] Drama : 웹으로 들어가기 너무 귀찮아서 웹을 파싱하여 만든 드라마 어플리케이션
   - [소스코드](https://github.com/godsejeong/Drama)
 
+## PortFoilo
+
+포트폴리오는 [여기서](https://github.com/godsejeong/Resume/blob/master/2019_%EB%82%98%EC%9E%AC%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) 열람하실수 있습니다.
