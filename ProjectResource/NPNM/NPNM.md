@@ -30,7 +30,7 @@ ViewPage를 사용하여 현재잔고와 한도금액을 이동할 수 있습니
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/ChartPage.png)
 
 ```
-버튼을 눌러서 가계부를 작성할수 있습니다. 사용한 금액에 따라 메인페이지에 있는 잔고가 줄어듭니다.
+플로팅 버튼을 눌러서 가계부를 작성할수 있습니다. 사용한 금액에 따라 메인페이지에 있는 잔고가 줄어듭니다.
 또한 원형 차트를 통해서 사용 내역을 차트로 확인할 수 있습니다.
 ```
 ### 잠금화면
