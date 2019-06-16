@@ -45,6 +45,15 @@
  - 2017,2018 SW영재교육원 안드로이드 맨토
 
 
+#### Skill
+
+-----
+
+**Android(Java,Kotlin)** : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
+
+**Python** : 기본문법과 Selenium, bs4, turtle등의 모듈을 사용해 보았습니다.
+
+
 #### Projects
 
 -----
@@ -134,10 +143,3 @@
 - [개인] Drama : 웹으로 들어가기 너무 귀찮아서 웹을 파싱하여 만든 드라마 어플리케이션
   - [소스코드](https://github.com/godsejeong/Drama)
 
-#### Skill
-
------
-
-**Android(Java,Kotlin)** : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
-
-**Python** : 기본문법과 Selenium, bs4, turtle등의 모듈을 사용해 보았습니다.
