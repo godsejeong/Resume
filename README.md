@@ -107,7 +107,7 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
 
-##### 그 외 프로젝트
+### 그 외 프로젝트
 
 - [대회/팀] SoloPlayList : 혼밥족 등 1인 가족의 등장으로 급증한 솔로들의 외로움을 해소하기 위한 커뮤니티 어플리케이션
   - [소스코드](https://github.com/godsejeong/AppJam16th)
