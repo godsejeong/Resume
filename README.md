@@ -55,7 +55,7 @@
 
 **Android(Java,Kotlin)** : MVVM아키텍처 적용 및 실무 어플리케이션 제작 및 유지보수 경험이 있습니다.
 
-**Python** : 기본문법과 Selenium, bs4, turtle등의 모듈을 사용해 보았습니다.
+**Python** : 기본문법과 Selenium, bs4, openpyxl등의 모듈을 사용해 보았습니다.
 
 
 ### Projects
