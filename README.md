@@ -56,11 +56,11 @@
  
 **선린인터넷고등학교**
  - 소프트웨어 나눔축제 안드로이드 메인강사 및 교재 집필
- - 2017,2018 SW영재교육원 안드로이드 맨토
+ - 2017,2018 SW영재교육원 안드로이드 멘토
 
 <br>
 
-### Skill
+### Developer Skill
 
 -----
 
@@ -80,7 +80,9 @@
 
 - 앱 소개 : 신인 작가와 미술 애호가 간의 시간적 공간적 불일치를 해소하며 서로의 정보 교환을 통해 적은 확률의 전시 기회,구매 후 불만족과 같은 문제점들을 개선할 수 있는 플랫폼입니다.
 - 기간 : 2018.10~11
-- Webview Bridge를 이용한 웹연동 및 ViroARcore를 통해 기획에 맞는 유연한 AR뷰어 개발,OpenCV예제를 활용해 사진등록기능을 개발하였습니다.
+- Webview Bridge를 이용한 웹연동 및 ViroARcore를 통해 유연한 AR뷰어 개발,CustomCamera,OpenCV를 이용해 사진등록 및 이미지크롭기능을 개발하였습니다.
+ARcore 같은 경우 향후 유지보수를 생각하여 GoogleARcore보다 훨씬 많은 기능을 제공하는 ViroARcore를 사용하였고 사용자의 편의성을 고려하여 이미지크롭라이브러리 대신 OpenCV를 이용하여 개발하였습니다.
+
 - 사용기술 : Kotlin,Java,ViroARCore(Google ARcore),WebView bridge,openCV
 
 [다운로드 링크]( https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication)
@@ -94,7 +96,8 @@
 - 앱 소개 :  시각장애인이 겪을 수 있는 위험한 상황을 대비하기 위하여 보호자에게 사용자의 상태를 실시간으로 모니터링,
 현금을 쉽게 파악하기 힘든 사용자를 위하여 분류가 가능한 IoT 커뮤니케이션 플랫폼 서비스 입니다.
 - 기간 : 2018.08~09
-- 머티리얼 2.0 디자인을 적용하여 로그인/회원가입을 개발했고, BluetoothSpp를 사용해 블루투스를 연동해 IOT시스템과 통신을 하였습니다. 
+- 로그인/회원가입,사용자,보호자,IoT부분 중 로그인/회원가입,사용자,IoT부분을 개발하였습니다.
+  머티리얼 2.0 디자인을 적용하여 로그인/회원가입을 개발했고, BluetoothSpp를 사용해 블루투스를 연동해 IOT시스템과 통신을 하였습니다. 
 그리고 Fcm을 이용해 사용자가 보호자에게 실시간으로 알림을 보내주는 기능을 개발하였습니다.
 - 사용기술 : BluetoothSPP,Fcm,retrofit2,머티리얼2.0
 
@@ -109,7 +112,8 @@
 
 - 아이즈원의 일정을 확인하기 위해서 카페를 통하여 불편한 과정을 거쳐야 하는데 그러한 불편함을 개선하고자 손쉽게 일정확인이 가능한 애플리케이션 입니다.
 - 기간 : Server - 2019.03.22 ~ 23 / Android - 2019.04 ~ 05 (2주간개발)
-- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다. MVVM,ACC,DI,Rxjava를 적용하여 프로젝트를 개발하였고 제스처에 따른 에니메이션을 구현했고 커스텀 캘린더뷰를 구현하였습니다. 또한 테마에 맞는 Theme을 설정하여 실시간으로 갱신 하였습니다. 
+- Flask와 Selenium을 사용하여 일정 크롤링 서버를 제작하였습니다.
+향후 유지보수를 신경써 MVVM아키텍처와 의존성을 주입하여 프로젝트 설계를 하였습니다. 기능적인 면으로는 뷰에 따른 제스처 에니메이션을 구현해 앱의 UX를 신경쓰고, 커스텀 캘린더뷰를 구현해 태그기능을 제작하였습니다. 또한 사용자 테마에 맞는 Theme을 설정하여 실시간으로 갱신 하였습니다.
 - 사용기술
   - Android - MVVM,ACC,DI,RxJAva
   - Server - Falsk,Selenium
@@ -124,7 +128,7 @@
 
 - 행복한 대학생활을 돕기 위해,계획적인 소비를 위해,과소비를 줄이기 위한 가계부 애플리케이션 입니다.
 - 기간 2018.09.21~2018.09.28
-- ViewPager를 이용하여 잔고와 한도금액을 볼 수 있고 가계부 목록을 list(Recycler)와 Chart(pieChart)형식으로 구현하였습니다.
+- ViewPager를 이용하여 잔고와 한도금액을 볼 수 있고 사용현황을 통계적으로 볼 수 있게 list(RecyclerView)와 Chart(pieChart)형식을 통해서 구현하였습니다.
 - 사용기술 : WebView,Service,PieChart
 
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.householdledger)
