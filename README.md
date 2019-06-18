@@ -11,6 +11,9 @@
 - Tel : 010-3229-5788
 - Github : https://github.com/godsejeong
 
+
+<br>
+
 ### Key Skill
 
 -----
@@ -19,11 +22,16 @@
 
 실무 앱 제작 및 유지보수 경험이 있습니다.
 
+<br>
+
 ### Education
 
 -----
 
 선린인터넷고등학교 소프트웨어과 재학중 (2017~)
+
+<br>
+
 ### Awards and Honors
 
 ----
@@ -32,6 +40,8 @@
 - **앱잼 14회 생활부문** 장려상
 - **앱잼 17회 생활부문** 장려상
 - **Smarteen App Challenge 2018 IOT부문** 가작상
+
+<br>
 
 ### Experience
 
@@ -48,6 +58,7 @@
  - 소프트웨어 나눔축제 안드로이드 메인강사 및 교재 집필
  - 2017,2018 SW영재교육원 안드로이드 맨토
 
+<br>
 
 ### Skill
 
@@ -57,6 +68,7 @@
 
 **Python** : 기본문법과 Selenium, bs4, openpyxl등의 모듈을 사용해 보았습니다.
 
+<br>
 
 ### Projects
 
@@ -145,6 +157,8 @@
 
 - [개인] Drama : 웹으로 들어가기 너무 귀찮아서 웹을 파싱하여 만든 드라마 애플리케이션입니다.
   - [소스코드](https://github.com/godsejeong/Drama)
+
+<br>
 
 ## PortFoilo
 
