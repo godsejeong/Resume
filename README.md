@@ -76,6 +76,8 @@
 
 -----
 
+<br>
+
 ##### Artfolio (외주)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
@@ -89,6 +91,8 @@
 [다운로드 링크]( https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication)
 
 제세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
+
+<br>
 
 ##### Bliends(대회/팀)
 
@@ -106,8 +110,9 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
 
-##### IZCalendar (개인)
+<br>
 
+##### IZCalendar (개인)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
 
@@ -123,6 +128,8 @@
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
+<br>
+
 ##### 	NPNM (No Pain, No Money) (외주)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/NPNM_Icon.png)
@@ -135,6 +142,8 @@
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.householdledger)
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
+
+<br>
 
 ### 그 외 프로젝트
 
