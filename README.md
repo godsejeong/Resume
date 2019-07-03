@@ -95,7 +95,7 @@
 
 <br>
 
-##### Bliends(대회/팀)
+##### Bliends (대회/팀)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends_Icon.png)
 
@@ -105,7 +105,7 @@
 - 로그인/회원가입,사용자,보호자,IoT부분 중 로그인/회원가입,사용자,IoT부분을 개발하였습니다.
   머티리얼 2.0 디자인을 적용하여 로그인/회원가입을 개발했고, BluetoothSpp를 사용해 블루투스를 연동해 IOT시스템과 통신을 하였습니다. 
 그리고 Fcm을 이용해 사용자가 보호자에게 실시간으로 알림을 보내주는 기능을 개발하였습니다.
-- 사용기술 : BluetoothSPP,Fcm,retrofit2,머티리얼2.0
+- 사용기술 : BluetoothSPP,Fcm,Retrofit2,머티리얼2.0
 
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.bliends.pc.bliends) (서버가 꺼짐)
 
