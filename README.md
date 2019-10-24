@@ -60,12 +60,13 @@
 
 -----
 
-**Didimstory**, OutSourcing (2018.10)
+**Didimstory**, OutSourcing (2018.10 ~ )
  - ViroARcore를 이용한 미술 관련 AR애플리케이션 개발
  - 가계부 애플리케이션 개발
+ - 여러 하이브리드 애플리케이션 개발
 
 **개인프로젝트**
- - MVC,MVP,MVVM등의 아키텍처 패턴,Di(Koin),Rxjava등을 활용해 프로젝트 개발
+ - MVC,MVP,MVVM ACC등의 아키텍처 패턴,Di(Koin),Rxjava등을 활용해 프로젝트 개발
  
 **선린인터넷고등학교**
  - 소프트웨어 나눔축제 안드로이드 메인강사 및 교재 집필
@@ -79,17 +80,17 @@
 
 <br>
 
-##### Artfolio (외주)
+##### Artfolio (외주/)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
 - 앱 소개 : 신인 작가와 미술 애호가 간의 시간적 공간적 불일치를 해소하며 서로의 정보 교환을 통해 적은 확률의 전시 기회,구매 후 불만족과 같은 문제점들을 개선할 수 있는 플랫폼입니다.
 - 기간 : 2018.10 ~ 11
-- WebView Bridge를 이용한 웹 연동 및 ViroARcore를 통해 유연한 AR 뷰어 개발, CustomCamera, OpenCV를 이용해 사진등록 및 이미지 크롭 기능을 개발하였습니다. ARcore 같은 경우 향후 유지보수를 생각하여 GoogleARcore보다 훨씬 많은 기능을 제공하는 ViroARcore를 사용하였고 사용자의 편의성을 고려하여 이미지 크롭 라이브러리 대신 OpenCV를 이용하여 개발하였습니다. 
+- WebView Bridge를 이용한 웹 연동 및 ViroARcore를 통해 유연한 AR 뷰어 개발, CustomCamera, OpenCV를 이용해 사진등록 및 이미지 크롭 기능을 개발하였습니다. ARcore 같은 경우 향후 유지보수를 생각하여 GoogleARcore보다 훨씬 많은 기능을 제공하는 ViroARcore를 사용하였고 사용자의 편의성을 고려하여 이미지 크롭 라이브러리 대신 OpenCV 라이브러리를 개조하여 개발하였습니다. 
 
-- 사용기술 : Kotlin,Java,ViroARCore(Google ARcore),WebView bridge,openCV
+- 사용기술 : Kotlin, Java, ViroARCore(Google ARcore) , WebView bridge , openCV
 
-[다운로드 링크]( https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication)
+[다운로드 링크](https://play.google.com/store/apps/details?id=com.didimstory.artfolioapplication)
 
 제세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
 
@@ -131,7 +132,7 @@
 
 <br>
 
-##### 	NPNM (No Pain, No Money) (외주)
+##### 	NPNM (No Pain, No Money) (외주/)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/NPNM_Icon.png)
 
