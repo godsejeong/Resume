@@ -80,7 +80,7 @@
 
 <br>
 
-##### Artfolio (외주/)
+##### Artfolio (외주/개인)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/ArtFoilo/Artfolio_icon.png)
 
@@ -119,7 +119,7 @@
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar_icon.png)
 
 - 아이즈원의 일정을 확인하기 위해서 카페를 통하여 불편한 과정을 거쳐야 하는데 그러한 불편함을 개선하고자 손쉽게 일정확인이 가능한 애플리케이션 입니다.
-- 기간 : 2019.04 ~ 05
+- 기간 : 2019.04 ~ 05/기능 확장을 위한 지속적인 업데이트 개발 중
 - Flask와 Selenium을 사용하여 다양한 정보를 수집하는 크롤러를 제작하였습니다.
 향후 유지보수를 신경 써 MVVM아키텍처와 의존성을 주입하여 프로젝트 설계를 하였습니다. 기능적인 면으로는 뷰에 따른 제스처애니메이션을 구현해 앱의 UX를 신경 쓰고, 커스텀 캘린더뷰를 구현해 태그기능을 제작하였습니다. 또한 사용자 테마에 맞는 Theme을 설정하여 실시간으로 갱신 하였습니다. 
 - 사용기술
@@ -169,11 +169,13 @@
   - [소스코드](https://github.com/godsejeong/ApplePi_Genius)
 
 - [개인] StarTalk(Chatting) : Soket.io와 retrofit을 이용하여 랜덤채팅앱을 개발하였습니다. 인앱결제,광고등을 도입하여 앱내의 앤앱상품을 이용하여 사람을 메칭하고 채팅을 할 수 있습니다.
-
+ - [소스코드/프라이빗임]()
+ 
 - [개인] Drama : 웹을 통해 여러번의 불편한 과정을 통해 드라마를 봐야 하는데 그러한점을 해결하고자 웹을 파싱하여 간편하게 볼수있는 드라마 애플리케이션입니다.
   - [소스코드](https://github.com/godsejeong/Drama)
   
-- [개인] SafeTaxi : 택시 안전방범등의 안전성과 홍보성이 낮아서 많은 앱입니다. 택시가 위험상황일때 비상방법등의 버튼을 누르면 비상방법등과 ble연동을 통해 자동으로 경찰서에 신고를 해주는 어플리케이션입니다. 
+- [개인] SafeTaxi : 택시 비상방범등의 안전성과 홍보성이 낮아서 만든 앱입니다. 택시가 위험상황일때 비상방범등의 버튼을 누르면 비상방범등과 블루투스 연동을 통해 자동으로 경찰서에 메시지를 보내어 신고를 해주는 어플리케이션입니다.
+  - [소스코드/프라이빗임]()
 
 - [대회/개인] SecondEyeForBuffet : 아이오티를 이용해 자리안내,음식안내를 수행하며 완전맹인도 4방향 검색을 통해 원하는 음식탐색이 가능하여 시각장애인들이 뷔페이용의 부담을 줄여주는 시각장애인들의 뷔페 이용 보조애플리케이션입니다.
   - [소스코드](https://github.com/godsejeong/2019MobilContent)
