@@ -180,8 +180,8 @@
   - [소스코드](https://github.com/godsejeong/ApplePi_Genius)
 
 - [개인] StarTalk(Chatting) : Soket.io와 retrofit을 이용하여 랜덤채팅앱을 개발하였습니다. 인앱결제,광고등을 도입하여 앱내의 앤앱상품을 이용하여 사람을 메칭하고 채팅을 할 수 있습니다.
- - 사용기술 : MVVM ACC,Rxjava,Realm,retrofit,okhttp,인앱 결제,ads
- - [소스코드/프라이빗임]()
+  - 사용기술 : MVVM ACC,Rxjava,Realm,retrofit,okhttp,인앱 결제,ads
+  - [소스코드/프라이빗임]()
  
 - [개인] Drama : 웹을 통해 여러번의 불편한 과정을 통해 드라마를 봐야 하는데 그러한점을 해결하고자 웹을 파싱하여 간편하게 볼수있는 드라마 애플리케이션입니다.   - 사용기술 : jsoup
   - [소스코드](https://github.com/godsejeong/Drama)
