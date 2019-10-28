@@ -150,35 +150,48 @@
 
 ### 그 외 프로젝트
 
-- [대회/팀] SoloPlayList : 혼밥족 등 1인 가족의 등장으로 급증한 솔로들의 외로움을 해소하기 위한 커뮤니티 애플리케이션입니다.
+- [대회/개인] SoloPlayList : 혼밥족 등 1인 가족의 등장으로 급증한 솔로들의 외로움을 해소하기 위한 커뮤니티 애플리케이션입니다.
+  - 사용기술 : retrofit,ORM
   - [소스코드](https://github.com/godsejeong/AppJam16th)
   
 - [대회/개인] Found : 창업 아이디어,서비스를 피드백 해주고 성공적으로 창업을 성공할 수 있게 도와주는 애플리케이션입니다.
+  - 사용기술 : retrofit
   - [소스코드](https://github.com/godsejeong/AppJam17th)
   
 - [대회/팀] Trump's Fact : 동기부여가 필요한 사람들간에 팩트폭력을 주고 받을 수 있는 커뮤니티 애플리케이션입니다.
+  - 역할 : 전반적인 뷰 작업 및 간단한 서버작업쪽을 맡음
+  - 사용기술 : retrofit,okhttp
   - [소스코드](https://github.com/godsejeong/highToon)
   
 - [대회/팀] CONNECTeD : 공문,확인서등의 중요한 가정통신문들이 전달이 잘 되지 않는 경우가 많아 이런 문제를 보완하기 위해 만든 교사와 학부모가 직접적으로 커뮤니케이션 할 수 있는 애플리케이션입니다.
+  - **앱잼 14회 생활부문** 장려상
+  - 역할 : 전반적인 뷰 작업을 맡음
+  - 사용기술 : retrofit
   - [소스코드](https://github.com/godsejeong/AppJamProject)
 
 - [대회/팀] BigFuture : 페이스북 친구 또는 자기 자신에게 졸업 전까지 하고 싶은 말을 간단하게 50자 내외로 기록하여 
 졸업식 당일,자신 또는 타인이 지정한 날에 알림이 오면서,다른 사람이 자신에게 한말을 태그별로 확인할수 있는 타입캡슐 애플리케이션입니다.
+  - 역할 : 전반적인 뷰 작업 및 간단한 서버작업쪽을 맡음
+  - 사용기술 : retrofit,okhttp,coordinatorLayout,fackbooksdk,fcm
   - [소스코드](https://github.com/godsejeong/BigFuture)
 
 - [개인] 동아리 축제 앱(The Genius) : 더 지니어스 정리해고 게임을 애플리케이션으로 제작하였습니다.
+  - 사용기술 : retofit,realm,socket
   - [소스코드](https://github.com/godsejeong/ApplePi_Genius)
 
 - [개인] StarTalk(Chatting) : Soket.io와 retrofit을 이용하여 랜덤채팅앱을 개발하였습니다. 인앱결제,광고등을 도입하여 앱내의 앤앱상품을 이용하여 사람을 메칭하고 채팅을 할 수 있습니다.
+ - 사용기술 : MVVM ACC,Rxjava,Realm,retrofit,okhttp,인앱 결제,ads
  - [소스코드/프라이빗임]()
  
-- [개인] Drama : 웹을 통해 여러번의 불편한 과정을 통해 드라마를 봐야 하는데 그러한점을 해결하고자 웹을 파싱하여 간편하게 볼수있는 드라마 애플리케이션입니다.
+- [개인] Drama : 웹을 통해 여러번의 불편한 과정을 통해 드라마를 봐야 하는데 그러한점을 해결하고자 웹을 파싱하여 간편하게 볼수있는 드라마 애플리케이션입니다.   - 사용기술 : jsoup
   - [소스코드](https://github.com/godsejeong/Drama)
   
 - [개인] SafeTaxi : 택시 비상방범등의 안전성과 홍보성이 낮아서 만든 앱입니다. 택시가 위험상황일때 비상방범등의 버튼을 누르면 비상방범등과 블루투스 연동을 통해 자동으로 경찰서에 메시지를 보내어 신고를 해주는 어플리케이션입니다.
+  - 사용기술 : ble,Auto MMS
   - [소스코드/프라이빗임]()
 
 - [대회/개인] SecondEyeForBuffet : 아이오티를 이용해 자리안내,음식안내를 수행하며 완전맹인도 4방향 검색을 통해 원하는 음식탐색이 가능하여 시각장애인들이 뷔페이용의 부담을 줄여주는 시각장애인들의 뷔페 이용 보조애플리케이션입니다.
+  - 사용기술 : MVVM ACC,Rxjava,google STT,Beacon 연동
   - [소스코드](https://github.com/godsejeong/2019MobilContent)
 
 ... 외 다수
