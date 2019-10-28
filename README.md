@@ -124,7 +124,7 @@
 - Flask와 Selenium을 사용하여 다양한 정보를 수집하는 크롤러를 제작하였습니다.
 향후 유지보수를 신경 써 MVVM아키텍처와 의존성을 주입하여 프로젝트 설계를 하였습니다. 기능적인 면으로는 뷰에 따른 제스처애니메이션을 구현해 앱의 UX를 신경 쓰고, 커스텀 캘린더뷰를 구현해 태그기능을 제작하였습니다. 또한 사용자 테마에 맞는 Theme을 설정하여 실시간으로 갱신 하였습니다. 
 - 사용기술
-  - Android - MVVM,ACC,DI,RxJava
+  - Android - MVVM,ACC,Koin,RxJava
   - Server - Falsk,Selenium
   
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.jjmin.izcalendar)
@@ -180,7 +180,7 @@
   - [소스코드](https://github.com/godsejeong/ApplePi_Genius)
 
 - [개인] StarTalk(Chatting) : Soket.io와 retrofit을 이용하여 랜덤채팅앱을 개발하였습니다. 인앱결제,광고등을 도입하여 앱내의 앤앱상품을 이용하여 사람을 메칭하고 채팅을 할 수 있습니다.
-  - 사용기술 : MVVM ACC,Rxjava,Realm,retrofit,okhttp,인앱 결제,ads
+  - 사용기술 : MVVM ACC,Rxjava,Koin,Realm,retrofit,okhttp,인앱 결제,ads
   - [소스코드/프라이빗임]()
  
 - [개인] Drama : 웹을 통해 여러번의 불편한 과정을 통해 드라마를 봐야 하는데 그러한점을 해결하고자 웹을 파싱하여 간편하게 볼수있는 드라마 애플리케이션입니다.   - 사용기술 : jsoup
@@ -194,7 +194,7 @@
 
 - [대회/개인] SecondEyeForBuffet : 아이오티를 이용해 자리안내,음식안내를 수행하며 완전맹인도 4방향 검색을 통해 원하는 음식탐색이 가능하여 시각장애인들이 뷔페이용의 부담을 줄여주는 시각장애인들의 뷔페 이용 보조애플리케이션입니다.
   - **2019 선린인터넷고등학교 모바일 콘텐츠 경진대회** 금상
-  - 사용기술 : MVVM ACC,Rxjava,google STT,Beacon 연동
+  - 사용기술 : MVVM ACC,Rxjava,Koin,google STT,Beacon 연동
   - [소스코드](https://github.com/godsejeong/2019MobilContent)
 
 ... 외 다수
