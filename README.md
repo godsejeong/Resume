@@ -110,7 +110,7 @@
 - 사용기술 : BluetoothSPP,Fcm,Retrofit2,머티리얼2.0
 
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.bliends.pc.bliends) (서버가 꺼짐)
-
+[소스 코드](https://github.com/Bliends/Bliends)
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
 
 <br>
@@ -128,12 +128,13 @@
   - Server - Falsk,Selenium
   
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.jjmin.izcalendar)
+[소스 코드](https://github.com/godsejeong/IZCalender)
 
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
 <br>
 
-##### 	NPNM (No Pain, No Money) (외주/)
+##### 	NPNM (No Pain, No Money) (외주/개인)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/NPNM_Icon.png)
 
@@ -143,7 +144,7 @@
 - 사용기술 : WebView,Service,PieChart
 
 [다운로드 링크](https://play.google.com/store/apps/details?id=com.householdledger)
-
+[소스코드](https://github.com/godsejeong/Householdledger/)
 제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
 
 <br>
