@@ -95,7 +95,7 @@
 
 [소스 코드](https://github.com/godsejeong/ArtFolio)
 
-제세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
+자세한 프로젝트 설명을 보시려면 [여기](http://lahmweb.cafe24.com/?portfolio=proin-cursus-dolor)를 클릭해 주세요
 
 <br>
 
@@ -115,7 +115,7 @@
 
 [소스 코드](https://github.com/Bliends/Bliends)
 
-제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
+자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Bliends/Bliends.md)를 클릭해 주세요
 
 <br>
 
@@ -135,7 +135,7 @@
 
 [소스 코드](https://github.com/godsejeong/IZCalender)
 
-제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
+자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/IZCalendar/IZCalendar.md)를 클릭해 주세요
 
 <br>
 
@@ -152,7 +152,7 @@
 
 [소스코드](https://github.com/godsejeong/Householdledger/)
 
-제세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
+자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
 
 <br>
 
