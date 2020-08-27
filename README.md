@@ -141,18 +141,6 @@
 
 <br>
 
-##### Ribs 아키텍처 & ConstraintLayoutLine을 이용한 에니메이션 개발 (외주/개인)
-
-
-- 비밀유지 계약서로 인해 내용 발설이 불가능하여 사용기술만 정의해두었습니다.
-- 기간 2019.02 ~ 2019.04
-- Ribs아키텍처와 ConstraintLayoutLine를 이용해 youtube 스크롤 에니메이션을 개발하였습니다.
-- 사용기술 : Ribs,ConstrantLayoutLine
-
-자세한 프로젝트 설명을 보시려면 [여기]()를 클릭해주세요.
-
-<br>
-
 ##### 	NPNM (No Pain, No Money) (외주/개인)
 
 ![alt text](https://github.com/godsejeong/Resume/blob/master/ProjectResource/NPNM/NPNM_Icon.png)
@@ -167,6 +155,18 @@
 [소스코드](https://github.com/godsejeong/Householdledger/)
 
 자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/resume/blob/master/ProjectResource/NPNM/NPNM.md)를 클릭해 주세요
+
+<br>
+
+##### Ribs 아키텍처 & ConstraintLayoutLine을 이용한 에니메이션 개발 (외주/개인)
+
+
+- 비밀유지 계약서로 인해 내용 발설이 불가능하여 사용기술만 정의해두었습니다.
+- 기간 2019.02 ~ 2019.04
+- Ribs아키텍처와 ConstraintLayoutLine를 이용해 youtube 스크롤 에니메이션을 개발하였습니다.
+- 사용기술 : Ribs,ConstrantLayoutLine
+
+자세한 프로젝트 설명을 보시려면 [여기]()를 클릭해주세요.
 
 <br>
 
