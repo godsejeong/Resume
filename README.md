@@ -146,7 +146,10 @@
 - 기간 2019.02 ~ 2019.04
 - Ribs아키텍처와 ConstraintLayoutLine를 이용해 youtube 스크롤 에니메이션을 개발하였습니다.
 - 사용기술 : Ribs,ConstrantLayoutLine
+
 자세한 프로젝트 설명을 보시려면 [여기]()를 클릭해주세요.
+
+<br>
 
 ##### 	NPNM (No Pain, No Money) (외주/개인)
 
