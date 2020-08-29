@@ -158,15 +158,14 @@
 
 <br>
 
-##### Ribs 아키텍처 & ConstraintLayoutLine을 이용한 에니메이션 개발 (외주/개인)
+##### Ribs 아키텍처 프로젝트 (팀/개인)
 
 
 - 비밀유지 계약서로 인해 내용 발설이 불가능하여 사용기술만 정의해두었습니다.
-- 기간 2019.02 ~ 2019.04
-- Ribs아키텍처와 ConstraintLayoutLine를 이용해 youtube 스크롤 에니메이션을 개발하였습니다.
-- 사용기술 : Ribs,ConstrantLayoutLine
-
-자세한 프로젝트 설명을 보시려면 [여기]()를 클릭해주세요.
+- 기간 2020.02 ~ 2020.04
+- Ribs아키텍처를 이용해 개발한 프로젝트 입니다.
+- 사용기술 : Ribs
+자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Ribs/ribs.md)를 클릭해주세요.
 
 <br>
 
@@ -196,6 +195,9 @@
   - 역할 : 전반적인 뷰 작업 및 간단한 서버작업쪽을 맡음
   - 사용기술 : retrofit,okhttp,coordinatorLayout,fackbooksdk,fcm
   - [소스코드](https://github.com/godsejeong/BigFuture)
+  
+- [외주/개인] PriveteMail : 자신이 좋아하는 상대에게서 비밀편지를 받을수 있는 앱을 제작했습니다.
+  - 사용기술 : fcm,realm,mvp,livedata,listadapter
 
 - [개인] 동아리 축제 앱(The Genius) : 더 지니어스 정리해고 게임을 애플리케이션으로 제작하였습니다.
   - 사용기술 : retofit,realm,socket
