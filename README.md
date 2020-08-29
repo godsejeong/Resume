@@ -158,7 +158,7 @@
 
 <br>
 
-##### Ribs 아키텍처 & ConstraintLayoutLine을 이용한 에니메이션 개발 (외주/개인)
+##### Ribs 아키텍처 & ConstraintLayoutLine을 이용한 에니메이션 개발 (팀/개인)
 
 
 - 비밀유지 계약서로 인해 내용 발설이 불가능하여 사용기술만 정의해두었습니다.
