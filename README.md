@@ -195,6 +195,9 @@
   - 역할 : 전반적인 뷰 작업 및 간단한 서버작업쪽을 맡음
   - 사용기술 : retrofit,okhttp,coordinatorLayout,fackbooksdk,fcm
   - [소스코드](https://github.com/godsejeong/BigFuture)
+  
+- [외주/개인] PriveteMail : 자신이 좋아하는 상대에게서 비밀편지를 받을수 있는 앱을 제작했습니다.
+  - 사용기술 : fcm,realm,mvp,livedata,listadapter
 
 - [개인] 동아리 축제 앱(The Genius) : 더 지니어스 정리해고 게임을 애플리케이션으로 제작하였습니다.
   - 사용기술 : retofit,realm,socket
