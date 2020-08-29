@@ -165,7 +165,7 @@
 - 기간 2020.02 ~ 2020.04
 - Ribs아키텍처를 이용해 개발한 프로젝트 입니다.
 - 사용기술 : Ribs
-자세한 프로젝트 설명을 보시려면 [여기]()를 클릭해주세요.
+자세한 프로젝트 설명을 보시려면 [여기](https://github.com/godsejeong/Resume/blob/master/ProjectResource/Ribs/ribs.md)를 클릭해주세요.
 
 <br>
 
