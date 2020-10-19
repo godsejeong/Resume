@@ -228,4 +228,4 @@
 
 ## PortFoilo
 
-포트폴리오는 [여기서](https://github.com/godsejeong/Resume/blob/master/2019_%EB%82%98%EC%9E%AC%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) 열람하실수 있습니다.
+포트폴리오는 [여기서](https://github.com/godsejeong/Resume/blob/master/%EB%82%98%EC%9E%AC%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) 열람하실수 있습니다.
