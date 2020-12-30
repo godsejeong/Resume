@@ -11,8 +11,7 @@
 - 이름 : 나재민
 - E-mail : dbdnpxm@gmail.com
 - Tel : 010-3229-5788
-- Github : https://github.com/godsejeong
-
+- Github : https://github.com/jjmins
 
 <br>
 
