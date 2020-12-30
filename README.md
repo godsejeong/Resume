@@ -2,7 +2,7 @@
 
 ## 소개
 
-![alt text](https://github.com/godsejeong/Resume/blob/master/profile.png)
+
 
 나 한 사람이 아닌 주변 모든 사람을 위한 개발자, 자기개발을 끝내지 않는 개발자 나재민입니다.
 
